@@ -1,0 +1,13 @@
+%TeX
+*.aux
+*.log
+*.zip
+*.dvi
+*.gz
+*.docx
+*.out
+*.bak
+*.bbl
+*.blg
+Ign_*
+.DS_store
